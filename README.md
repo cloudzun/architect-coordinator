@@ -1,5 +1,10 @@
 # 🏗️ Architect Coordinator
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/cloudzun/architect-coordinator.svg)](https://github.com/cloudzun/architect-coordinator/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/cloudzun/architect-coordinator.svg)](https://github.com/cloudzun/architect-coordinator/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
 **让AI成为架构师，协调编码代理完成复杂开发任务。**
 
 ## 概念
